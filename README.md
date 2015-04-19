@@ -4,11 +4,13 @@ This library is being rewritten, as certain functions have been done poorly, ple
 
 A python version of Mojang's AccountsClient repository with some extra features, inspired by [Mojang/AccountsClient](https://github.com/Mojang/AccountsClient) and [Thezomg/mcapi](https://github.com/Thezomg/mcapi) 
 
+Forked from [techkid6's version](https://github.com/techkid6/AccountsClientPython).
+
 Installation
 ------------
 
 ```
-pip install git+git://github.com/techkid6/AccountsClientPython
+pip install git+git://github.com/nike4613/AccountsClientPython
 ```
 
 Examples
