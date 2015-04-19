@@ -6,11 +6,11 @@ if sys.version_info<(2,6,0):
   exit(1)
 
 setup(
-  name='AccountsClientPython',
+  name='PyMCAccounts',
   version='0.31',
   description="A python version of Mojang's AccountsClient repository with some extra features",
   install_requires=['requests'],
   author='DaNike4613',
   author_email='aaron.cirr.com@gmail.com',
-  packages=['AccountsClientPython']
+  packages=['MCAccounts']
 )
