@@ -1,4 +1,4 @@
-PyMCAccount
+PyMCAccounts
 ====================
 This library is being rewritten, as certain functions have been done poorly, please use caution with this library as there might be some unexpected bugs
 
